@@ -6,7 +6,6 @@
     <title>Login Page</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
 
-    
     <style>
         /* Modal Hidden by Default */
         .modal {
